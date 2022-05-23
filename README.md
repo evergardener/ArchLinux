@@ -1,13 +1,13 @@
-Packages I installed:
-Terminal:alacritty(but I want to change it)
-Text Editor:Atom
-Clipboard:copyq
-Input Method:fcitx5
-Screenshot:flameshot
-WM:i3
-Status:polybar
-IM:telegram icalingua
-IDE:IDEA CLion
+Packages I installed:  
+Terminal:alacritty(but I want to change it)  
+Text Editor:Atom  
+Clipboard:copyq  
+Input Method:fcitx5  
+Screenshot:flameshot  
+WM:i3  
+Status:polybar  
+IM:telegram icalingua  
+IDE:IDEA CLion  
 Music:listen1
 Player:mpv smplayer
 Office:LibreOffice
