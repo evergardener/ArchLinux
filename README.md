@@ -1,5 +1,5 @@
 Packages I installed:  
-Terminal:alacritty(but I want to change it)  
+Terminal:alacritty or else
 Text Editor:Atom  
 Clipboard:copyq  
 Input Method:fcitx5  
